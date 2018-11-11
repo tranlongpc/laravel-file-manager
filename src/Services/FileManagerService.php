@@ -1,9 +1,9 @@
 <?php
 
-namespace Alexusmai\LaravelFileManager\Services;
+namespace tranlongpc\LaravelFileManager\Services;
 
-use Alexusmai\LaravelFileManager\Traits\ContentTrait;
-use Alexusmai\LaravelFileManager\Traits\HelperTrait;
+use tranlongpc\LaravelFileManager\Traits\ContentTrait;
+use tranlongpc\LaravelFileManager\Traits\HelperTrait;
 use Illuminate\Support\Str;
 use Storage;
 use Image;

@@ -1,6 +1,6 @@
 <?php
 
-namespace Alexusmai\LaravelFileManager;
+namespace tranlongpc\LaravelFileManager;
 
 use Illuminate\Support\ServiceProvider;
 

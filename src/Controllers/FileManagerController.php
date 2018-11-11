@@ -1,8 +1,8 @@
 <?php
 
-namespace Alexusmai\LaravelFileManager\Controllers;
+namespace tranlongpc\LaravelFileManager\Controllers;
 
-use Alexusmai\LaravelFileManager\Services\FileManagerService;
+use tranlongpc\LaravelFileManager\Services\FileManagerService;
 use App\Http\Controllers\Controller;
 use Illuminate\Http\Request;
 

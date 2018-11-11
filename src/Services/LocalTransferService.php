@@ -1,8 +1,8 @@
 <?php
 
-namespace Alexusmai\LaravelFileManager\Services;
+namespace tranlongpc\LaravelFileManager\Services;
 
-use Alexusmai\LaravelFileManager\Traits\HelperTrait;
+use tranlongpc\LaravelFileManager\Traits\HelperTrait;
 use Exception;
 use Storage;
 

@@ -1,5 +1,5 @@
 {
-    "name": "alexusmai/laravel-file-manager",
+    "name": "tranlongpc/laravel-file-manager",
     "description": "File manager for Laravel",
     "keywords": [
         "laravel 5",
@@ -13,7 +13,7 @@
             "role": "Developer"
         }
     ],
-    "homepage": "https://github.com/alexusami/laravel-file-manager",
+    "homepage": "https://github.com/tranlongpc/laravel-file-manager",
     "license": "MIT",
     "minimum-stability": "dev",
     "require": {
@@ -25,13 +25,13 @@
     },
     "autoload": {
         "psr-4": {
-            "Alexusmai\\LaravelFileManager\\": "src"
+            "tranlongpc\\LaravelFileManager\\": "src"
         }
     },
     "extra": {
         "laravel": {
             "providers": [
-                "Alexusmai\\LaravelFileManager\\FileManagerServiceProvider"
+                "tranlongpc\\LaravelFileManager\\FileManagerServiceProvider"
             ]
         }
     }
